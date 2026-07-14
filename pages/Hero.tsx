@@ -57,8 +57,8 @@ const Hero: React.FC = () => {
 
             <div className="flex flex-wrap gap-4">
               <a 
-                href="./Atharva_Jadhav_Resume.txt" 
-                download="Atharva_Jadhav_Resume.txt"
+                href="./Atharva_Jadhav_Resume.PDF" 
+                download="Atharva_Jadhav_Resume.PDF"
                 className="px-6 py-3 bg-neon-blue/10 border border-neon-blue text-neon-blue font-bold rounded-lg hover:bg-neon-blue hover:text-black transition-all duration-300 flex items-center gap-2 shadow-[0_0_15px_rgba(0,243,255,0.3)] pointer-events-auto cursor-pointer"
               >
                 <Download size={18} /> Download Resume
